@@ -50,7 +50,7 @@ Where:
 ### Example
 A clear example of this matrix form is:
 
-![equation](https://latex.codecogs.com/svg.image?\bg{white}%5Clarge%20%5Cbegin%7Bbmatrix%7D%20y_1%20%5C%5C%20y_2%20%5C%5C%20%5Cvdots%20%5C%5C%20y_m%20%5Cend%7Bbmatrix%7D%20=%20%5Cbegin%7Bbmatrix%7D%20Reach_%7B1%7D%20&%20Spend_%7B1%7D%20&%20Efficiency_%7B1%7D%20%5C%5C%20Reach_%7B2%7D%20&%20Spend_%7B2%7D%20&%20Efficiency_%7B2%7D%20%5C%5C%20%5Cvdots%20&%20%5Cvdots%20&%20%5Cvdots%20%5C%5C%20Reach_%7Bm%7D%20&%20Spend_%7Bm%7D%20&%20Efficiency_%7Bm%7D%20%5Cend%7Bbmatrix%7D%20%5Cbegin%7Bbmatrix%7D%20%5Cbeta_%7BReach%7D%20%5C%5C%20%5Cbeta_%7BSpend%7D%20%5C%5C%20%5Cbeta_%7BEfficiency%7D%20%5Cend%7Bbmatrix%7D%20+%20%5Cbegin%7Bbmatrix%7D%20%5Cepsilon_1%20%5C%5C%20%5Cepsilon_2%20%5C%5C%20%5Cvdots%20%5C%5C%20%5Cepsilon_m%20%5Cend%7Bbmatrix%7D)
+![equation](https://latex.codecogs.com/svg.image?%5Cbg%7Bwhite%7D%25%5Clarge%20%5Cbegin%7Bbmatrix%7D%20y_1%20%5C%5C%20y_2%20%5C%5C%20%5Cvdots%20%5C%5C%20y_m%20%5Cend%7Bbmatrix%7D%20=%20%5Cbegin%7Bbmatrix%7D%20Reach_%7B1%7D%20&%20Spend_%7B1%7D%20&%20Efficiency_%7B1%7D%20%5C%5C%20Reach_%7B2%7D%20&%20Spend_%7B2%7D%20&%20Efficiency_%7B2%7D%20%5C%5C%20%5Cvdots%20&%20%5Cvdots%20&%20%5Cvdots%20%5C%5C%20Reach_%7Bm%7D%20&%20Spend_%7Bm%7D%20&%20Efficiency_%7Bm%7D%20%5Cend%7Bbmatrix%7D%20%5Cbegin%7Bbmatrix%7D%20%5Cbeta_%7BReach%7D%20%5C%5C%20%5Cbeta_%7BSpend%7D%20%5C%5C%20%5Cbeta_%7BEfficiency%7D%20%5Cend%7Bbmatrix%7D%20+%20%5Cbegin%7Bbmatrix%7D%20%5Cepsilon_1%20%5C%5C%20%5Cepsilon_2%20%5C%5C%20%5Cvdots%20%5C%5C%20%5Cepsilon_m%20%5Cend%7Bbmatrix%7D)
 
 ---
 
